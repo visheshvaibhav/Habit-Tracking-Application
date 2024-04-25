@@ -42,9 +42,9 @@ To run the Habit Tracker App, you'll need Python and the required dependencies i
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/visheshvaibhav/Habit-Tracking-Application
-2. **Install Dependencies**:
+2. **Install Dependencies from requirements.txt file**:
    ```bash
-   pip install questionary tabulate
+   pip install -r requirements.txt
 3. **Run the Application**:
    ```bash
    python main.py
