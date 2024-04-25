@@ -42,16 +42,7 @@ To run the Habit Tracker App, you'll need Python and the required dependencies i
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/visheshvaibhav/Habit-Tracking-Application
-   cd Habit-Tracking-Application/
-2. **Create a virtual environment and activate it**:
-   ```bash
-   python -m venv venv
-
-   #on MacOS
-   source venv/bin/activate  
-
-   #on Windows
-   venv\Scripts\activate
+   #Change directory to Habit-Tracking-Application
 2. **Install Dependencies from requirements.txt file**:
    ```bash
    pip install -r requirements.txt
